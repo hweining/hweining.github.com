@@ -16,6 +16,11 @@ email_username:  hweiningchiang@gmail.com
 google_tracking_id: UA-63091687-1
 #bing_verify:
 
+# Data
+#gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: img/favicon.ico
+
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
