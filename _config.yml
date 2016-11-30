@@ -72,7 +72,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : hweining2014
     livefyre :
       site_id : 123
     intensedebate :
@@ -82,8 +82,6 @@ JB :
       num_posts: 5
       width: 580
       colorscheme: light
-    duoshuo :
-      short_name : jekyllbootstrap
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -94,7 +92,7 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-63091687-1'
     getclicky :
       site_id : 
     mixpanel :
