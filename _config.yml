@@ -6,14 +6,14 @@ copyright_name: Your/Project/Corporate Name
 description: "No Zuo No Die!"
 baseurl: ""
 url: "http://hweining.com"
-twitter_username: Akimot0_Kazume
+twitter_username: Akimot0_Kazuma
 github_username:  hweining
 facebook_username:  hweining chiang
 email_username:  hweiningchiang@gmail.com
 
 #Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-#google_tracking_id: UA-63091687-1
+google_tracking_id: UA-63091687-1
 #bing_verify:
 
 # Build settings
@@ -27,3 +27,10 @@ gems: [jekyll-paginate]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
+
+# Comments 
+comments :
+  provider : disqus
+  disqus :
+      short_name : hweining2014
+      
