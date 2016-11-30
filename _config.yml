@@ -1,19 +1,19 @@
 # Site settings
-title: Clean Blog
+title: Hweining's Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: hweiningchiang@gmail.com
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+description: "No Zuo No Die!"
+baseurl: ""
+url: "http://hweining.com"
+twitter_username: akimot0_kazume
+github_username:  hweining
+facebook_username:  hweining chiang
+email_username:  hweiningchiang@gmail.com
 
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking I
+Dgoogle_tracking_id:UA-63091687-1
 
 # Build settings
 markdown: kramdown
