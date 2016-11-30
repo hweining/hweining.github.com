@@ -29,5 +29,5 @@ gems: [jekyll-paginate]
 timezone: Asia/Shanghai
 
 # Comments 
-disqus :
-      short_name : hweining2014
+#disqus :
+#short_name : hweining2014
