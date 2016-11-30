@@ -13,8 +13,8 @@ email_username:  hweiningchiang@gmail.com
 
 #Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-63091687-1
-bing_verify:
+#google_tracking_id: UA-63091687-1
+#bing_verify:
 
 # Build settings
 markdown: kramdown
