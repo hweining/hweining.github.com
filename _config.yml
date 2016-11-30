@@ -27,3 +27,8 @@ gems: [jekyll-paginate]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
+
+# Comments 
+comments :
+  disqus :
+      short_name : hweining2014
